@@ -1,4 +1,8 @@
-# 👋 Hi, I’m @divspark
+
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=35&pause=1000&color=A6F756&width=535&lines=Hi%2C+I%E2%80%99m+%40divspark" alt="Typing SVG" /></a>
+</h1>
 
 - 👀 I’m interested in building innovative web applications and solving real-world problems through technology.
 - 🌱 I’m currently learning advanced backend development techniques and exploring cloud services.
